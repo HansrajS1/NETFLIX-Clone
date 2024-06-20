@@ -145,7 +145,6 @@ nav button {
     border-radius: 4px;
     border: 1px solid white;
     cursor: pointer;
-
 }
 
 .btn-red-sm {
@@ -170,7 +169,6 @@ nav button {
     margin: auto;
     align-items: center;
     color: white;
-
 }
 
 .img1 {
@@ -371,8 +369,14 @@ footer .Call {
         max-width: 200px;
     }
 
+    .Question span {
+        padding: 0px 0px;
+        font-size: 22px;
+    }
+
 
 }
+
 
 @media screen and (max-width: 500px) {
 
@@ -418,7 +422,7 @@ footer .Call {
 
     .Question span {
         padding: 0px 0px;
-        font-size: 20px;
+        font-size: 19px;
     }
 
     footer .Calls {
@@ -427,7 +431,7 @@ footer .Call {
 
     .hero-button {
         gap: 8px;
-        padding: 6px;
+        padding: 14px;
     }
 
     .hero>:nth-child(2) {
@@ -449,6 +453,14 @@ footer .Call {
     .em button {
         font-size: 12px;
     }
+}
+
+@media screen and (max-width: 416px) {
+    .Question span {
+        padding: 0px 0px;
+        font-size: 14px;
+    }
+
 }
 
 @media screen and (max-width: 366px) {
