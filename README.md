@@ -1,4 +1,4 @@
-# NETFLIX-Clone
+## NETFLIX-Clone
 Create Netflix Clone using html and css only. link: https://hansrajs1.github.io/NETFLIX-Clone/
 
 ![](assets/images/preview.png)
@@ -10,5 +10,5 @@ Thank you for checking out the Clone Site Project! If you have any questions or 
 
 Happy coding!
 
-#License
+## License
 [MIT License](LICENSE)
