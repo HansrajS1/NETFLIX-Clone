@@ -9,3 +9,6 @@ The Clone Site Project is a static website built with pure HTML and CSS. It serv
 Thank you for checking out the Clone Site Project! If you have any questions or feedback, please feel free to reach out.
 
 Happy coding!
+
+#License
+[MIT License](LICENSE)
