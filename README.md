@@ -1,5 +1,5 @@
 ## NETFLIX-Clone
-Create Netflix Clone using HTML and CSS only. link: https://hansrajs1.github.io/NETFLIX-Clone/
+Created Netflix Clone using HTML and CSS only. link: https://hansrajs1.github.io/NETFLIX-Clone/
 
 ![](assets/images/preview.png)
 Clone Site Project
