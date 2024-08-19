@@ -1,8 +1,7 @@
-@import url('https://fonts.cdnfonts.com/css/netflix-font');
-
 * {
     margin: 0;
     padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .main {
@@ -58,7 +57,7 @@ nav button {
     justify-content: center;
     color: white;
     position: relative;
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 136px 20px;
     text-align: center;
     margin: 2px;
@@ -120,7 +119,7 @@ nav button {
 }
 
 .em span {
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 24px;
 }
 
@@ -191,16 +190,16 @@ nav button {
 
 
 section.first>div :first-child {
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 46px;
     font-weight: 900;
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 section.first>div :nth-child(2) {
     font-size: 24px;
     padding: 2px 2px 2px 2px;
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .txt2 {
@@ -216,7 +215,7 @@ section.first>div :nth-child(2) {
 .FAQ h2 {
     font-size: 48px;
     padding: 44px;
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 900;
 }
 
@@ -226,7 +225,7 @@ section.first>div :nth-child(2) {
     text-align: center;
     padding: 10px 10px 10px 10px;
 
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .Question span {
@@ -237,7 +236,7 @@ section.first>div :nth-child(2) {
 .Question {
     transition: all ease-out;
     font-size: 24px;
-    font-family: 'Netflix Font', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: space-between;
     background-color: #2d2d2d;
@@ -412,7 +411,8 @@ footer .Call {
     section.first>div :nth-child(2) {
         font-size: 10px;
         padding: 2px 2px 2px 2px;
-        font-family: 'Netflix Font', sans-serif;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
     }
 
     .main input {
@@ -502,7 +502,8 @@ footer .Call {
     section.first>div :nth-child(2) {
         font-size: 5px;
         padding: 2px 2px 2px 2px;
-        font-family: 'Netflix Font', sans-serif;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
     }
 
     .hero>:nth-child(3) {
